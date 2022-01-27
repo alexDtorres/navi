@@ -1,6 +1,44 @@
-# Navi
+# `navi`
 
-##### You should use `Navi` to interact with `Links` (:
+```
+
+// Navi is a capable resource manager...
+// TODO - manager example
+
+// Put element.
+// Show building block. 
+// Try to make it memorable. (the what)
+
+```
+
+```
+
+// ...but is better suited as a logic engine.
+// TODO - engine examples
+
+// Put use case.
+// Show construction. 
+// Try to make it fun. (the how)
+
+```
+
+```
+
+// In essence, Navi is a reference to some imaginary charactor.
+// TODO - abstract examples
+
+// Put model.
+// Show building. 
+// Try to make it impress. (the why)
+
+```
+
+##### Description 
+
+- It providers pointers to `ln`
+
+
+## The remaining content was generated using the `ng` template for `README.md`
 
 _This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3._
 
